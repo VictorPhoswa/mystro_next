@@ -1,5 +1,5 @@
 # mystro_next
-Hi! 
+Hi!
 
 I developed a Mystro_next clone not fully functional, however implements most of all the important functionalities like Navigation of screens, Permission enabling, OAuth2.0 Uber authentication linking and toogling the availability status. I excluded some Icons, due to no better icons found and data fetching due to time.
 
@@ -21,7 +21,7 @@ Instructions to run the aplicatiom:
 5. run command:
 	IOS: yarn start
 	Andorid: npm start
-6. If you are using an Expo  install scan the QIR code
+6. If you are using  Expo Go scan the QR code
 
 
 <-- Happy exploration!--->
